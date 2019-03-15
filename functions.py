@@ -1,6 +1,6 @@
 '''
 Created on 4 апр. 2017 г.
-@author: Сергей
+@author: dmred
 '''
 import math
 import matplotlib.pyplot as plotF
